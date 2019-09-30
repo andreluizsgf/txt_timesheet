@@ -1,0 +1,6 @@
+## Timesheet
+
+morning: 10:00
+brb lunch: xx:42
+back: 14:24
+leaving: 18:16
